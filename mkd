@@ -22,7 +22,7 @@ N64 Tierra Sorbete:         2:18.391
 GBA Playa Shy Guy:          1:28.158
 DS Ciudad Delfino:          2:14.241
 GCN Estadio Waluigi:        2:11.763
-DS Desierto Sol-Sol:        1:52:256
+DS Desierto Sol-Sol:        1:45:107
 GBA Castillo de Bowser 3:   2:29.062
 N64 Pista de la Jungla DK:  2:33.796
 GCN Circuito Mario:         1:42.654
